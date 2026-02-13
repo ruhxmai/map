@@ -826,7 +826,42 @@ const SCHOOLS_CONFIG = [
 
     logo: "assets/logos/Логотип_№140.jpg",
     photo: "assets/photos/Мектеп_№140.jpg",
+  },
+  {
+    id: 26, // уникальный ID
+    coordinates: [47.918114, 69.876038], // координаты пока нет
+
+    name: "Кенжебай-Самай ЖББ мектебі",
+    fullName:
+      "Ұлытау облысы, Жаңаарқа ауданы, Кенжебай-Самай ауылы №16, Кенжебай-Самай негізгі орта мектебі",
+    yearBuilt: 1973,
+    address: "Кенжебай-Самай ауылы №16",
+    phone: "87103051107",
+    email: null,
+
+    social: {
+      instagram: {
+        username: "kenzhebay_samay_mekteby75",
+        url: "https://www.instagram.com/kenzhebay_samay_mekteby75/",
+      },
+      facebook: {
+        url: "https://www.facebook.com/me/",
+      },
+      telegram: { url: null },
+    },
+
+    director: {
+      name: "Торгаев Сейтказы Несипбекович",
+      photo: "assets/directors/Торгаев_Сейтказы_Несипбекович.jpg",
+    },
+
+    students: 36,
+    teachers: 17,
+
+    logo: "assets/logos/Логотип_Кенжебай-Самай.jpg",
+    photo: "assets/photos/Мектеп_Кенжебай-Самай.jpg",
   }
+
 
 
 
