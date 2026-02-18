@@ -726,40 +726,6 @@ const SCHOOLS_CONFIG = [
     photo: "assets/photos/Мектеп_Ынтымақ.jpg",
   },
   {
-    id: 23, // уникальный ID
-    coordinates: [48.691886, 71.666354], // координаты пока нет
-
-    name: "№1 мектеп-лицейі",
-    fullName:
-      "Ұлытау облысы, Жаңаарқа ауданы, №1 мектеп-лицейі",
-    yearBuilt: 2022,
-    address: "Байдалы би көшесі 11/2",
-    phone: "87103027931",
-    email: "mektep@1ml.edu.kz",
-
-    social: {
-      instagram: {
-        username: "1mektep_lyceum_zhanaarka",
-        url: "https://www.instagram.com/1mektep_lyceum_zhanaarka/",
-      },
-      facebook: {
-        url: "https://www.facebook.com/share/1ZSAhmUDuZ/",
-      },
-      telegram: { url: null },
-    },
-
-    director: {
-      name: "Изтулеуов Даурен Досымович",
-      photo: "assets/directors/Изтулеуов_Даурен_Досымович.jpg",
-    },
-
-    students: 876,
-    teachers: 79,
-
-    logo: "assets/logos/Логотип_№1_мектеп-лицейі.jpg",
-    photo: "assets/photos/Мектеп_№1_мектеп-лицейі.jpg",
-  },
-  {
     id: 24, // уникальный ID
     coordinates: [48.656041, 71.637275], // координаты пока нет
 
