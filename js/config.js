@@ -556,40 +556,6 @@ const SCHOOLS_CONFIG = [
     photo: "assets/photos/Мектеп_Оразалы_Жұмабеков.jpg",
   },
   {
-    id: 18, // уникальный ID
-    coordinates: [48.683375, 71.634769], // координаты пока нет
-
-    name: "Оқушылар үйі",
-    fullName:
-      "Ұлытау облысы, Жаңаарқа ауданы, Оқушылар үйі коммуналдық мемлекеттік қазыналық кәсіпорыны",
-    yearBuilt: 2021,
-    address: "А.Оспанова 36-1",
-    phone: "87103026235",
-    email: "domshkol_zhanaarka@mail.ru",
-
-    social: {
-      instagram: {
-        username: "okushilar_uii_zhanaarka",
-        url: "https://www.instagram.com/okushilar_uii_zhanaarka?utm_source=qr",
-      },
-      facebook: {
-        url: "https://www.facebook.com/profile.php?id=100073614695742",
-      },
-      telegram: { url: null },
-    },
-
-    director: {
-      name: "Тайкенов Дархан Есенбаевич",
-      photo: "assets/directors/Тайкенов_Дархан_Есенбаевич.jpg",
-    },
-
-    students: 680,
-    teachers: 19,
-
-    logo: "assets/logos/Логотип_Оқушылар_үйі.jpg",
-    photo: "assets/photos/Мекеме_Оқушылар_үйі.jpg",
-  },
-  {
     id: 19, // уникальный ID
     coordinates: [48.682116, 71.650394], // координаты пока нет
 
